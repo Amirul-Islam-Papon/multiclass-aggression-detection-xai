@@ -1,0 +1,16 @@
+{
+  "total_samples": 19997,
+  "train_size": 13997,
+  "val_size": 2000,
+  "test_size": 4000,
+  "n_features": 5023,
+  "classes": 5,
+  "class_names": {
+    "0": "No Aggression",
+    "1": "Violence",
+    "2": "Gender",
+    "3": "Religion",
+    "4": "Ethnicity"
+  },
+  "random_seed": 42
+}

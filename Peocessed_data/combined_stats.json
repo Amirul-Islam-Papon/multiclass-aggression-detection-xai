@@ -1,0 +1,22 @@
+{
+  "total_samples": 19997,
+  "sources_breakdown": {
+    "Berkeley": 9312,
+    "Davidson": 5858,
+    "HatExplain": 4827
+  },
+  "class_distribution": {
+    "0": 6695,
+    "2": 5679,
+    "1": 5392,
+    "4": 1412,
+    "3": 819
+  },
+  "class_names": {
+    "0": "No Aggression",
+    "1": "Violence",
+    "2": "Gender",
+    "3": "Religion",
+    "4": "Ethnicity"
+  }
+}
